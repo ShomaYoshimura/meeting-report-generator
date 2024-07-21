@@ -1,4 +1,3 @@
-```md
 # WebSpeechAPI ドキュメント
 
 ## 概要
